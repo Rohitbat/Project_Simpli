@@ -1,2 +1,2 @@
 FROM nginx
-COPY Project.html /usr/share/nginx/html
+COPY Project.java /usr/share/nginx/html
